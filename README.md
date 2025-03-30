@@ -6,6 +6,18 @@ This is a Django project.
 
 ### Prerequisites
 
+Before you begin, ensure you have met the following requirements:
+
+- Python 3.8 or higher is installed on your system. You can download it from [python.org](https://www.python.org/).
+- `pip` (Python package manager) is installed and up to date. You can check by running:
+    ```sh
+    pip --version
+    ```
+- Git is installed on your system. You can download it from [git-scm.com](https://git-scm.com/).
+- A code editor or IDE of your choice (e.g., VS Code, PyCharm).
+- Basic knowledge of Python and Django.
+- Internet connection to download dependencies.
+
 - Python 3.x
 - Django 3.x
 
