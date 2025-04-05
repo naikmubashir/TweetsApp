@@ -5,3 +5,5 @@ class TweetForm(forms.ModelForm):
     class Meta:
         model=Tweet
         fields=['text','photo'] #from Tweet model
+
+class Regi
