@@ -1,6 +1,6 @@
 # DjangoProject
 
-This is a Django project.
+This is a Django project. 
 
 ## Getting Started
 
